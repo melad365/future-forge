@@ -28,14 +28,19 @@ function Word() {
             READ THE MESSAGE FROM OUR CEO
           </p>
           <p className="text-sm text-[#565757] md:text-base lg:text-lg">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem
-            ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
-            amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-            ut labore et dolore magna aliqua.
+            As the CEO of FutureForge, I am honored to lead a team of passionate professionals dedicated
+            to bringing you the very best in technology solutions. Our commitment to you goes beyond just
+            providing services; it's about forging lasting partnerships that drive your success. In a 
+            world where technology evolves rapidly, we stand as your trusted ally, ready to navigate 
+            challenges, uncover opportunities, and ensure that your digital journey is not just seamless
+            but exceptional. At FutureForge, we believe in the transformative power of technology to
+            elevate businesses and redefine possibilities. Our team is here to listen, understand, and
+            deliver tailored solutions that align with your unique goals.
+
+            Thank you for choosing us as your technology partner. Together, let's embark on a journey of
+            innovation, growth, and unparalleled success.
+
+
           </p>
         </div>
       </div>

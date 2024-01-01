@@ -21,17 +21,18 @@ function Welcome() {
           md:after:h-2 md:after:w-32 md:after:mt-4 md:after:mx-0 md:after:shadow-lg md:after:mb-6
         "
           >
-            Welcome to Alumina
+            Welcome to FutureForge Solutions
           </h1>
           <p className="text-sm text-[#565757] md:text-base lg:text-lg">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem
-            ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum
-            dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit
-            amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-            ut labore et dolore magna aliqua.
+            Welcome to FutureForge, where technology meets ingenuity to redefine possibilities.
+            At FutureForge, we believe in the transformative power of innovation and are 
+            dedicated to providing cutting-edge tech services that propel businesses
+            into the future. Our team of skilled professionals is committed to delivering
+            excellence in every line of code, ensuring that your digital ambitions are
+            not just met but exceeded. Whether you're seeking bespoke software solutions,
+            IT consulting, or digital transformation strategies, we are here to craft
+            tailored answers to your technological challenges. Join us at FutureForge, 
+            where tomorrow's technology is crafted today.
           </p>
           <button
             className="bg-[#F8A600] text-white px-6 py-3 mt-4 font-semibold

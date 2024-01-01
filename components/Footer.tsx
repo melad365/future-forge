@@ -122,7 +122,7 @@ function Footer() {
 
         <div>
           <p className="text-center text-gray-500">
-            © Alumina 2023 - All rights reserved
+            © FutureForge 2023 - All rights reserved
           </p>
         </div>
       </div>

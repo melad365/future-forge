@@ -5,12 +5,12 @@ import "slick-carousel/slick/slick-theme.css";
 function Hero() {
   const sliders = [
     {
-      title: "Lorem ipsum dolor sit amet",
+      title: "Transforming Your Visions into Technology",
       image: "https://picsum.photos/1920/1080",
       subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit ",
     },
     {
-      title: "Lorem ipsum dolor sit amet",
+      title: "Coding with Confidence, serving with passion",
       image: "https://picsum.photos/1920/1080",
       subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     },

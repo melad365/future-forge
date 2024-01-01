@@ -44,10 +44,10 @@ function Header() {
           </a>
           <div className="flex items-center">
             <a
-              href="tel:5541251234"
+              href="tel:00353871141234"
               className="mr-6 text-sm text-gray-500 hover:underline"
             >
-              (555) 412-1234
+              (+353) 87-114-1234
             </a>
             <button
               className="md:hidden focus:outline-none"
