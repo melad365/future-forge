@@ -16,7 +16,7 @@ export default function Home() {
       <Product />
       <Stats />
       <Services />
-      <Certificate />
+      {/* <Certificate /> */}
     </main>
   );
 }
