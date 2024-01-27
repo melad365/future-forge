@@ -96,7 +96,7 @@ function Footer() {
                   Application
                 </a>
                 <a
-                  href="#"
+                  href="https://merakiui.com/"
                   className="block mt-2 text-sm text-gray-600 hover:underline"
                 >
                   Meraki UI

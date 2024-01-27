@@ -40,12 +40,12 @@ function Header() {
       <nav className="bg-white border-gray-20 container mx-auto">
         <div className="flex flex-wrap justify-between items-center mx-auto p-4">
           <a href="/" className="flex items-center">
-            <img src="logo.png" className="h-12" />
+            <img src="logo.png" className="h-11" />
           </a>
           <div className="flex items-center">
             <a
               href="tel:00353871141234"
-              className="mr-6 text-sm text-gray-500 hover:underline"
+              className="mr-6 text-xs text-gray-500 hover:underline"
             >
               (+353) 87-114-1234
             </a>
