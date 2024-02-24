@@ -4,31 +4,31 @@ const products = [
   {
     id: 1,
     name: "Technology Consulting",
-    image: "https://picsum.photos/id/1/1920/1080",
+    image: "https://images2.imgbox.com/cb/6c/Jn9C3wow_o.jpg",
     details: "Offering expert advice on technology choices, architecture, and best practices. As well as providing strategic guidance for technology adoption and digital transformation.",
   },
   {
     id: 2,
     name: "Web Application Development",
-    image: "https://picsum.photos/id/1/1920/1080",
+    image: "https://images2.imgbox.com/51/b9/TvNzawGk_o.jpg",
     details: "Building scalable, performant and responsive web applications for various purposes, such as e-commerce, content management, and collaboration platforms",
   },
   {
     id: 3,
     name: "Custom Software Development",
-    image: "https://picsum.photos/id/1/1920/1080",
+    image: "https://images2.imgbox.com/70/41/PrqLVF2W_o.jpg",
     details: "Designing and developing bespoke software applications tailored to the unique requirements of clients",
   },
   {
     id: 4,
     name: "Mobile App Development",
-    image: "https://picsum.photos/id/1/1920/1080",
+    image: "https://images2.imgbox.com/70/f8/T5D6pkRh_o.jpg",
     details: "Designing and Developing intuitive and feature-rich mobile applications for iOS and Android platforms",
   },
   {
     id: 5,
     name: "UI/UX Design",
-    image: "https://picsum.photos/id/1/1920/1080",
+    image: "https://images2.imgbox.com/76/e6/b1QOjz9I_o.jpg",
     details: "Creating intuitive and visually appealing user interfaces and user experiences for software applications focusing on usability and user satisfaction",
   },
 ];
