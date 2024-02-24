@@ -26,7 +26,7 @@ function OurService() {
             mb-4 md:mb-8
         "
             >
-              Specialists in aluminum processing
+              Specialists in All thing Web
             </h1>
             <p className="text-sm text-[#565757] md:text-base lg:text-lg">
               Nel 2019, Alumac China ha iniziato a collaborare con i partner
