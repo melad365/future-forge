@@ -7,12 +7,12 @@ function Hero() {
     {
       title: "Transforming Your Visions into Technology",
       image: "https://picsum.photos/1920/1080",
-      subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit ",
+      subtitle: "Where tomorrow's technology is crafted today",
     },
     {
       title: "Coding with Confidence, serving with passion",
       image: "https://picsum.photos/1920/1080",
-      subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      subtitle: "Where tomorrow's technology is crafted today",
     },
   ];
 

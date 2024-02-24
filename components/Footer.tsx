@@ -12,8 +12,7 @@ function Footer() {
               </a>
 
               <p className="max-w-sm mt-2 text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis, nisi! Id.
+                Where tomorrow's technology is crafted today
               </p>
 
               <div className="flex mt-6 -mx-2">
